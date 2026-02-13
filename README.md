@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Isabelle Trampusch
 
-Sou formadaa em técnico de Mecatrônica e atualmente curso Análise e Desenvolvimento de Sistemas. Atualmente trabalho com automação industrial e desenvolvimento de software.
+Sou formada em técnico de Mecatrônica e atualmente curso Análise e Desenvolvimento de Sistemas. Atualmente trabalho com automação industrial e desenvolvimento de software.
 
 
 <div style="display: inline_block"><br>
