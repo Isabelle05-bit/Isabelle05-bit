@@ -3,8 +3,7 @@ Sou formada como Técnica em Mecatrônica e atualmente curso Análise e Desenvol
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Isa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+
 
   
 <div> 
